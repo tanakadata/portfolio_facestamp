@@ -6,4 +6,5 @@ numpy==1.26.0
 setuptools==76.0.0
 wheel==0.45.1
 uvicorn
-
+tensorflow==2.14.0  # TensorFlowのバージョンを2.14.0に固定
+tf-keras  # DeepFaceが必要とするKerasパッケージ
